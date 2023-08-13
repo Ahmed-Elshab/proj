@@ -1,0 +1,10 @@
+.grad {
+    background: #2189cf;
+    background: linear-gradient(to right, #2189cf 0%, #0d821d 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.modal {
+    backdrop-filter:blur(5px);
+    }
